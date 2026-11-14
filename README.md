@@ -247,7 +247,7 @@ This project demonstrates practical implementation of SQL-based Data Engineering
 
 **Md. Karaamathullah Sheriff**
 
-Aspiring Data Scientist | Data Engineer | AI/ML Engineer
+Sr. Data Scientist 
 
 🔗 GitHub: [Codechef555](https://github.com/Codechef555)
 
